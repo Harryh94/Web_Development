@@ -1,0 +1,37 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.navbar {
+    background-color: #263238;
+}
+
+
+.card {
+    width: 45%;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #263238;
+    font-size: 18px;
+    padding: 50px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#news, #cr {
+    color: #B0BEC5;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.footl {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    font-size: 25px;
+}
